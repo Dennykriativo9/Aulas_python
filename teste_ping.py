@@ -15,9 +15,11 @@ def main():
     print(f" o ip introduzido foi {ip}")
 
     os.system("cls")
+    # os.system("clear")  se for linux 
     os.system(f"ping {ip}")
 
 main()
+
 
 
 
