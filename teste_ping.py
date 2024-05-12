@@ -18,7 +18,7 @@ def main():
     # os.system("clear")  se for linux 
     os.system(f"ping {ip}")
 
-main()
+main()  
 
 
 
